@@ -1,5 +1,5 @@
 
-Redis Queue
+# Redis Queue
 •	Celery + RabbitMQ
 •	Celery + Redis
 •	Apache Kafka
@@ -23,7 +23,9 @@ https://youtu.be/Zziu_duALcE
 https://loadforge.com/guides/fastapi-performance-tuning-tricks-to-enhance-speed-and-scalability
 (cahce out)
 
-Redis
+
+
+# Redis
 •	Supercharge FastAPI with Redis
 https://pub.towardsai.net/supercharge-fastapi-with-redis-74f2e70e0d4f
 (cache out)
@@ -48,11 +50,10 @@ https://youtu.be/eAHAKowv6hk
 
 
 
-Asyncio
+# Asyncio
+
 •	(Jake Callahan) Understanding Python: Asyncio
 https://youtu.be/ypumJY4zFMw
 
 •	Python Asyncio, Requests, Aiohttp | Make faster API Calls
 https://youtu.be/nFn4_nA_yk8
-
-![image](https://github.com/user-attachments/assets/d9678441-7843-4882-97f6-dc153427e5c2)
